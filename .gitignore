@@ -11,6 +11,8 @@ node_modules
 .docz
 **/build/
 **/dist/
+# redis dump
+**/dump.rdb
 
 # My personal preference for keeping notes next to the project
 notes.md
