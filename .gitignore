@@ -1,0 +1,25 @@
+# Mac
+.DS_Store
+
+# Also counting in monorepos
+# Env variables
+**/.env
+
+# Also counting in monorepos
+# JS project specifics 
+node_modules
+.docz
+**/build/
+**/dist/
+
+# My personal preference for keeping notes next to the project
+notes.md
+
+# npm
+npm-debug.log
+
+# yarn
+yarn-error.log
+
+# VS Code
+.vscode/
